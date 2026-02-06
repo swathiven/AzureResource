@@ -1,0 +1,9 @@
+{
+	"name": "dftrendy",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5784769f-72dc-4d10-b7c7-451a729026bf",
+		"tenantId": "637e6c1d-10ab-4258-92b1-9783d1406909"
+	}
+}
